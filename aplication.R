@@ -13,3 +13,6 @@ source("data_out.R") # Chamada da função
 data_mod<- data_out(df, DP = 3)
 plot(data_mod$y)
 ```
+
+x<-2
+x+2
